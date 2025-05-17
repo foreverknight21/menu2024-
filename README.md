@@ -1,2 +1,2 @@
-# menu2024-
-aa
+# Mervelerdeyiz Dijital Menü
+Bu proje Mervelerdeyiz için hazırlanmış dijital menü uygulamasıdır.
